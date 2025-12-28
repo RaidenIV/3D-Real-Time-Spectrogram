@@ -1,0 +1,47 @@
+# Compiled binaries
+*.exe
+*.out
+*.app
+spectrogram_gui
+spectrogram_gui.exe
+
+# Object files
+*.o
+*.obj
+*.res
+
+# ImGui generated files
+imgui.ini
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Debug files
+*.dSYM/
+*.pdb
+*.ilk
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Dependencies (if using submodules)
+# imgui/  # Uncomment if you want to exclude imgui and use submodule instead
