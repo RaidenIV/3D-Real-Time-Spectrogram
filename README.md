@@ -6,7 +6,7 @@ A real-time audio spectrogram visualization tool with both 2D and 3D waterfall d
 
 ## Features
 
-- **Real-time Audio Analysis**: Capture and visualize audio from your microphone or audio files
+- **Real-time Audio Analysis**: Capture and visualize audio from your audio files
 - **Dual Display Modes**: 
   - 2D texture-based spectrogram (optimized for performance)
   - 3D waterfall visualization
